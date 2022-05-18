@@ -1,0 +1,2 @@
+Am creat un template pentru o stiva care sa poata memora orice tip de data si am implementat un design 
+pattern tip fabrica pentru dreptunghiuri si triunghiuri. Am un singur design pattern.
